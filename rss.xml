@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Clement]]></title>
         <description><![CDATA[Clement]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 10:04:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 10:08:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clement/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MATHEMATICS AND SEX]]></title>
             <description><![CDATA[<article><h1>MATHEMATICS AND SEX</h1><p>using mathematics to reveal patterns in our sex lives, to using sex to prime our brain for certain types of problems, to understanding them both in terms of the evolutionary roots of our brain, Dr Clio Cresswell shares her insight into it all.</p></article>]]></description>
-            <link>undefinedmathematics-and-sex/index.html</link>
+            <link>https://thegrid.ai/clement/mathematics-and-sex/index.html</link>
             <guid isPermaLink="false">df2c5a46-22b7-403c-81ff-dd2cd30263d6</guid>
-            <pubDate>Wed, 16 Mar 2016 10:04:08 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 10:07:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
