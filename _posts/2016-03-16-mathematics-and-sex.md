@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'using mathematics to reveal patterns in our sex lives, to using sex to prime our brain for certain types of problems, to understanding them both in terms of the evolutionary roots of our brain, Dr Clio Cresswell shares her insight into it all.'
-datePublished: '2016-03-16T15:11:34.240Z'
-dateModified: '2016-03-16T15:09:18.743Z'
+datePublished: '2016-03-16T15:13:42.997Z'
+dateModified: '2016-03-16T15:11:42.044Z'
 title: MATHEMATICS AND SEX
 author: []
 sourcePath: _posts/2016-03-16-mathematics-and-sex.md
