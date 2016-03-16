@@ -1,7 +1,7 @@
 name: Clement
 favicon: null
 layout_spectrum: 0.3254583009984344
-typography_spectrum: 0.10670230770483613
+typography_spectrum: 0.90285
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#161d23'
+    - '#cccccc'
+    - '#ffffff'
+    - '#828282'
+    - '#42a644'
   brandStrength: 0.7003816778305918
   lightness: 0.8522257956210524
   saturation: 0.6945343918632716
