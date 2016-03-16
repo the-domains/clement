@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T14:39:31.002Z'
-dateModified: '2016-03-16T14:38:56.971Z'
+datePublished: '2016-03-16T15:11:17.254Z'
+dateModified: '2016-03-16T15:11:16.744Z'
 title: CAN WE CREATE NEW SENSES FOR HUMANS?
 author: []
 sourcePath: _posts/2016-03-16-can-we-create-new-senses-for-humans.md
