@@ -1,29 +1,83 @@
-name: Clement
-favicon: null
-layout_spectrum: 0.10948
-typography_spectrum: 0.39753
-title: Clement
+name: Clement.Expert
+analytics:
+  google: UA-85282266-1
+purpose:
+  - type: contact
+    url: 'mailto:clement@mindmatter.agency'
+    label: Email Me
+  - type: external
+    url: 'http://www.mindmatter.agency'
+    label: MINDMATTER
+description: Expert in the field of Psychology and Technology
+author:
+  name: Clement Farah
+  url: www.mindmatter.agency
+  email: clement@mindmatter.agency
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab8645a70177920fa2a4b3037103615cf16802c.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab8645a70177920fa2a4b3037103615cf16802c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: imgflo.herokuapp.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d02d04c23c2a415f41cfca9a7028d0f4/noop.jpg?input=http%3A%2F%2Fwww.sciencealert.com%2Fimages%2Farticles%2Fprocessed%2Fneuralartificialneuron_1024.jpg
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.06314391272299287
 color:
+  lightness: 0.4062757491544443
   brandColors:
-    - '#ffffff'
     - '#000000'
-    - '#262626'
-    - '#727272'
-    - '#b4b4b4'
-  brandStrength: 0.375
-  lightness: 0.25
-  saturation: 0.5
-  rhythmicContrast: 0
-purpose: []
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  saturation: 0.3772030747461474
+  brandStrength: 0.07902374456682713
+  rhythmicContrast: 0.09773868194808906
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f888d0a-7ec7-403a-9a8e-b393eee6637e.png
+content_rating:
+  adult: false
+typography_spectrum: 0.8514129398450587
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b244f61-dd52-4257-93a5-c2283164ffe7.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/148789f1-1702-4875-a167-70ed956edeb0.jpg
+title: Clement
+url: 'http://clement.expert/'
+github: true
