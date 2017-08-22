@@ -1,3 +1,16 @@
+layout_spectrum: 0.4456363353667098
+typography_spectrum: 0.8572700287985366
+color:
+  lightness: 0.5654768528443495
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  saturation: 0.6470971561950807
+  brandStrength: 0.07627266147893182
+  rhythmicContrast: 0.3055428554078029
 name: Clement.Expert
 analytics:
   google: UA-85282266-1
@@ -56,23 +69,10 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.06314391272299287
-color:
-  lightness: 0.4062757491544443
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-  saturation: 0.3772030747461474
-  brandStrength: 0.07902374456682713
-  rhythmicContrast: 0.09773868194808906
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f888d0a-7ec7-403a-9a8e-b393eee6637e.png
 content_rating:
   adult: false
-typography_spectrum: 0.8514129398450587
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b244f61-dd52-4257-93a5-c2283164ffe7.jpg
